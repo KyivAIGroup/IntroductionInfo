@@ -6,7 +6,7 @@ The goal of creating general artificial intelligence is long term, but we procee
 
 Guide to know us better:
 
-Read about our view on principles and path toward AI creation here
-Team
-Our current projects. Brief Description
-Our past projects and results
+1. Read about our view on principles and path toward AI creation [link](https://docs.google.com/document/d/e/2PACX-1vRjwoMzSoqhpT-ppMt118FMJ-OxS3CGrkxmkw_-rD8iN7rKTkmxHRKfQ33aZ3L7zPKFmcyAcTyp3bSi/pub)
+2. Team
+3. Our current projects. Brief Description
+4. Our past projects and results
